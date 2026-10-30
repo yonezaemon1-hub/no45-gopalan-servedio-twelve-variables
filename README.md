@@ -7,7 +7,11 @@ The paper proves the square-root real-degree bound for nonconstant sign-valued B
 
 ## Paper and reproduction package
 
-[GitHub Releases](https://github.com/yonezaemon1-hub/no45-gopalan-servedio-twelve-variables/releases) contains the fixed ten-page PDF and complete reproduction ZIP as explicit assets. Zenodo registration follows this GitHub release; the DOI will be added to this README and CITATION.cff after it is issued.
+[GitHub Release v1.0](https://github.com/yonezaemon1-hub/no45-gopalan-servedio-twelve-variables/releases/tag/v1.0) contains the fixed ten-page PDF and complete reproduction ZIP as explicit assets.
+
+**Zenodo Preprint:** https://zenodo.org/records/23825016  
+**DOI:** https://doi.org/10.5281/zenodo.23825016  
+Zenodo publication date: 31 October 2026. The two Zenodo files were downloaded and their SHA-256 hashes match the fixed inputs. The GitHub-published asset digests also match.
 
 The PDF and ZIP are unchanged from the author-designated completed manuscript. Their front-page and internal “not yet public”, “no DOI” and HOLD statements record preparation, before the author's publication instruction. The current hosting metadata records actual publication.
 
@@ -37,3 +41,4 @@ The published audit summaries are in `publication/`; the complete fixed reproduc
 ## Rights
 
 Copyright (c) 2026 Ryutaro Yonezu. **All rights reserved.** Public access does not grant reuse, redistribution, modification, commercial-use or relicensing permission, except as permitted by applicable law or express permission from the copyright holder.
+
