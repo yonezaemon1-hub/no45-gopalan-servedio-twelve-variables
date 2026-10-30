@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "Please cite this unrefereed preprint. Novelty remains inconclusive; no human peer review is claimed."
+type: article
+title: "The Gopalan–Servedio Square-Root Bound Holds Through Twelve Boolean Variables"
+authors:
+  - family-names: Yonezu
+    given-names: Ryutaro
+    affiliation: Independent Researcher
+version: "1.0"
+license: LicenseRef-All-Rights-Reserved

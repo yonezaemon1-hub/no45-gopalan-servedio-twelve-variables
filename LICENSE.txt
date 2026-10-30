@@ -1,0 +1,10 @@
+Copyright (c) 2026 Ryutaro Yonezu. All rights reserved.
+
+This unrefereed preprint and its accompanying reproduction files are made
+available for reading and verification. No permission is granted to reproduce,
+redistribute, modify, commercially exploit or relicense them, except as
+permitted by applicable law or by express permission from the copyright holder.
+
+Historical preparation notices in the fixed PDF and archive are preserved.
+The author has subsequently authorized their public distribution; no additional
+reuse license is granted.
