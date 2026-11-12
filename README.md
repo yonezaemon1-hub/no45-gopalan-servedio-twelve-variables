@@ -42,3 +42,9 @@ The published audit summaries are in `publication/`; the complete fixed reproduc
 
 Copyright (c) 2026 Ryutaro Yonezu. **All rights reserved.** Public access does not grant reuse, redistribution, modification, commercial-use or relicensing permission, except as permitted by applicable law or express permission from the copyright holder.
 
+## Author correspondence (metadata update, 2026-11-12)
+
+**Ryutaro Yonezu — Independent Researcher**  
+Research correspondence: **yonezaemon1+research@gmail.com**
+
+This contact-information addition does not revise any mathematical claims, frozen verification files, published preprint PDF, release assets, DOI, or existing SHA256 checksums.
